@@ -1,0 +1,12 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+h1 {
+  font-size: 35px;
+}
+.name-highlight {
+  color: orange;
+}
+p {
+  width: 50%;
+}
