@@ -1,2 +1,2 @@
 For Live Server click the link down below :
-https://injamulrashik.github.io/web-portfolio/index.html
+https://injamulrashik.github.io/web-portfolio/
