@@ -166,3 +166,7 @@ footer p {
   -ms-transform: scale(0.8);
   transform: scale(0.8);
 }
+#exp {
+  text-align: center;
+  font-weight: 900;
+}
